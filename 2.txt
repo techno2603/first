@@ -1,1 +1,5 @@
+<<<<<<< Updated upstream
 I love my india
+=======
+my name is sagar
+>>>>>>> Stashed changes
